@@ -33,6 +33,6 @@
     "email-deep-validator": "^3.3.0",
     "extract-domain": "^2.3.4",
     "maxmind": "^4.3.2",
-    "whois-json": "^2.0.4"
+    "whois-json": "^2.1.0"
   }
 }
