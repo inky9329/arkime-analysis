@@ -1,4 +1,4 @@
-FROM ubuntu:22.04
+FROM ubuntu:kinetic
 MAINTAINER Andy Wick <andy.wick@oath.com>
 
 ENV DEBIAN_FRONTEND=noninteractive
