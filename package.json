@@ -41,7 +41,7 @@
     "request-promise": "^4.2.6",
     "serve-favicon": "^2.5.0",
     "splunk-sdk": "^1.11.0",
-    "stylus": "^0.54.8",
+    "stylus": "^0.56.0",
     "unzipper": "^0.10.11",
     "uuidv4": "^5.0.1",
     "vue": "^2.6.12",
