@@ -8,7 +8,7 @@
   "dependencies": {
     "@elastic/elasticsearch": "7.10.0",
     "@xingrz/cppzst": "^2.1.0-alpha.8",
-    "arkime-notifme-sdk": "^1.11.1",
+    "arkime-notifme-sdk": "^1.11.2",
     "async": "^3.2.3",
     "axios": "^0.21.4",
     "better-sqlite3": "^7.5.0",
@@ -45,7 +45,7 @@
     "unzipper": "^0.10.11",
     "uuidv4": "^5.0.1",
     "vue": "^2.6.12",
-    "vue-server-renderer": "^2.6.12"
+    "vue-server-renderer": "^2.7.0"
   },
   "scripts": {
     "lint": "eslint --ext .js,.vue parliament viewer wiseService capture/plugins common cont3xt",
