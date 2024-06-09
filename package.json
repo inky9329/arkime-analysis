@@ -42,7 +42,7 @@
     "serve-favicon": "^2.5.0",
     "splunk-sdk": "^1.11.0",
     "stylus": "^0.54.8",
-    "unzipper": "^0.10.11",
+    "unzipper": "^0.12.1",
     "uuidv4": "^5.0.1",
     "vue": "^2.6.12",
     "vue-server-renderer": "^2.6.12"
