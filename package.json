@@ -40,7 +40,7 @@
     "request": "^2.88.2",
     "request-promise": "^4.2.6",
     "serve-favicon": "^2.5.0",
-    "splunk-sdk": "^1.11.0",
+    "splunk-sdk": "^2.0.1",
     "stylus": "^0.54.8",
     "unzipper": "^0.10.11",
     "uuidv4": "^5.0.1",
