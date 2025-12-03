@@ -8,7 +8,7 @@
   "dependencies": {
     "@elastic/elasticsearch": "7.10.0",
     "@xingrz/cppzst": "^2.1.0-alpha.8",
-    "arkime-notifme-sdk": "^1.11.1",
+    "arkime-notifme-sdk": "^1.11.7",
     "async": "^3.2.3",
     "axios": "^0.21.4",
     "better-sqlite3": "^7.5.0",
@@ -18,7 +18,7 @@
     "connect-timeout": "^1.7.0",
     "console-stamp": "^3.0.2",
     "csv": "^5.3.2",
-    "express": "^4.17.3",
+    "express": "^4.22.0",
     "font-awesome": "^4.7.0",
     "glob": "^7.2.3",
     "helmet": "^3.23.3",
